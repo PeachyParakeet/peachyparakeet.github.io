@@ -77,14 +77,14 @@
         </li>
         <li>
           <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="18" x2="12" y2="12"/><line x1="9" y1="15" x2="15" y2="15"/></svg>
-          <a href="PhD_CV__6_.pdf" target="_blank">Download CV</a>
+          <a href="Christen_Black_CV.pdf" target="_blank">Download CV</a>
         </li>
       </ul>
     </aside>
 
     <main>
       <h1>Christen Black</h1>
-      <p class="subtitle">Ph.D. Candidate in Economics | Howard University | christen.black@bison.howard.edu</p>
+      <p class="subtitle">Ph.D. in Economics | Howard University | christen.black@bison.howard.edu</p>
       <div class="divider"></div>
 
       <p class="bio">
