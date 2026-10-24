@@ -55,7 +55,7 @@
   <nav>
     <a class="brand" href="index.html">Christen Black</a>
     <a href="index.html">Home</a>
-    <a href="PhD_CV__6_.pdf" target="_blank">CV</a>
+    <a href="Christen_Black_CV.pdf" target="_blank">CV</a>
     <a href="#research">Research</a>
     <a href="#teaching">Teaching</a>
     <a href="about.html">About Me</a>
